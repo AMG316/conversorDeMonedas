@@ -22,4 +22,4 @@ Este es un conversor de monedas que permite a los usuarios convertir entre difer
 ## Instalación
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/conversorDeMonedas.git
+   git clone https://github.com/AMG316/conversorDeMonedas.git
